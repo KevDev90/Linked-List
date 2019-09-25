@@ -1,0 +1,52 @@
+.logo {
+  width: 19%;
+  height: 31%;
+  padding-right: 3%;
+  padding-left: 3%;
+}
+
+.title {
+  font-size: 90px;
+}
+
+.app-title {
+  display: flex;
+  height: 100vh;
+  width: 50%;
+  padding-top: 13%;
+  background-color: #455A64;
+  color: white;
+  justify-content: center;
+  order: 1;
+}
+
+.website-title {
+
+  margin-left: auto;
+  margin-right: auto;
+  height: 5%;
+  width: 85%;
+  order: 2;
+
+}
+
+.inputs {
+  flex-direction: row;
+  align-self: center;
+}
+
+.enter-button {
+  flex-direction: row;
+  order: 4;
+
+}
+
+.website-URL {
+
+  margin-left: auto;
+  margin-right: auto;
+  height: 5%;
+  width: 85%;
+  order: 3;
+
+}
